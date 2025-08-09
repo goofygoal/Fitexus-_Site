@@ -1,0 +1,20 @@
+<div class="product">
+  <img
+    src="/mnt/data/ucl 25 24 final ball.jpg"
+    alt="UCL Final 24/25 Season Adidas Ball"
+    style="width:200px; height:auto;"
+  />
+  <img
+    src="/mnt/data/ucl 25 24 final ball side.jpg"
+    alt="Side View of UCL Final 24/25 Season Adidas Ball"
+    style="width:200px; height:auto; margin-left:10px;"
+  />
+  <h3>UCL Final 24/25 Season Adidas Ball</h3>
+  <p>Official size 5 UEFA Champions League ball, premium quality.</p>
+  <p><strong>Price:</strong> LKR 5000</p>
+  <a
+    href="mailto:youremail@example.com?subject=Order%20Request%20-%20UCL%20Final%2024/25%20Season%20Adidas%20Ball&body=Hi,%20I%20would%20like%20to%20order%20the%20UCL%20Final%2024/25%20Season%20Adidas%20Ball."
+    style="background-color:#00ff88; color:#000; padding:10px 20px; border-radius:20px; text-decoration:none; display:inline-block; margin-top:10px;"
+    >Buy Now</a
+  >
+</div>
